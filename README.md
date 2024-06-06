@@ -23,8 +23,7 @@
 
 <br /><br /><br />
 ##  Certified as:
-
-[<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1529f8a1-7606-4919-9517-7d1cb9cecba7" data-share-badge-host="https://www.credly.com"></div>]
+[<img src="networking-basics.png" data-iframe-width="650" data-iframe-height="650" data-share-badge-id="1529f8a1-7606-4919-9517-7d1cb9cecba7" data-share-badge-host="https://www.credly.com"></div>]
 <br /><br />
 
 <p align="left">
