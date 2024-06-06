@@ -25,6 +25,7 @@
 
 <a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/3e0a0280-22f7-4d52-875c-0059e287fb9c"><img src="Volunteering/MSLearn_SA.png" height="108" width="129"></img></a>
 <a href="https://api.badgr.io/public/assertions/I7EIImg8T7mKghsWeewnLA"><img src="Certification/Postman_API_Fundamentals_Student_Expert.png" height="110" width="110"></img></a>
+<a href="https://fb.com/senukdias"><img src="Volunteering/nibm_cs.png" height="110" width="110"></img></a>
 
 
 <br /><br /><br />
