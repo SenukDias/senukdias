@@ -25,7 +25,7 @@
 ## 🔖🎓 Certified as:
 <a href="https://www.credly.com/badges/1529f8a1-7606-4919-9517-7d1cb9cecba7/public_url"><img src="Certification/networking-basics.png" height="100" width="100"></img></a>
 <a href="https://api.badgr.io/public/assertions/I7EIImg8T7mKghsWeewnLA"><img src="Certification/Postman_API_Fundamentals_Student_Expert.png" height="110" width="110"></img></a>
-<a href="[https://api.accredible.com/v1/credential-net/user_referrals/6726af85c64963940851a71749783209/click](https://skillshop.credential.net/72081c87-ba4a-4c56-97f3-a1ceac5d6935#gs.ag836o)"><img src="Certification/google-analytics.png" height="110" width="110"></img></a>
+<a href="https://skillshop.credential.net/72081c87-ba4a-4c56-97f3-a1ceac5d6935#gs.ag836o"><img src="Certification/google-analytics.png" height="110" width="110"></img></a>
 <br /><br />
 
 <p align="left">
