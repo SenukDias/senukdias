@@ -1,4 +1,4 @@
-<img align="center" width="400"  src="banner.png" />
+<img align="center" width="823" height="171"  src="banner.png" />
 
 # Hi there !!! I am [Senuk][instagram] 👋💗 <img align="right" src="https://komarev.com/ghpvc/?username=senukdias" alt="Senuk" />
 
