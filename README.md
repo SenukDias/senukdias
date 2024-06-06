@@ -1,6 +1,6 @@
 <img align="right" width="823" height="171"  src="banner.png" />
 
-# Hi there !!! I am [Senuk][instagram] 👋💗 <img align="right" src="https://komarev.com/ghpvc/?username=senukdias" alt="Senuk" />
+# Hi there!</br> I am [Senuk][instagram] 👋💗 <img align="right" src="https://komarev.com/ghpvc/?username=senukdias" alt="Senuk" />
 
 
 - 🔭 I’m currently working on [Ronin Chat](https://github.com/SenukDias/Ronin_Chat)
