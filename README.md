@@ -23,7 +23,7 @@
 <br /><br /><br />
 ## 🌍🫶 Volunteer With:
 
-<a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/3e0a0280-22f7-4d52-875c-0059e287fb9c"><img src="Volunteering/MLSC.jpg" height="100" width="100"></img></a>
+<a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/3e0a0280-22f7-4d52-875c-0059e287fb9c"><img src="Volunteering/MSLearn_SA.png" height="100" width="100"></img></a>
 
 <br /><br /><br />
 ## 🔖🎓 Certified as:
