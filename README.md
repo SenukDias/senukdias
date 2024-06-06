@@ -22,8 +22,9 @@
 
 
 <br /><br /><br />
-##  Certified as:
+## 🔖🎓 Certified as:
 <a href="https://www.credly.com/badges/1529f8a1-7606-4919-9517-7d1cb9cecba7/public_url"><img src="Certification/networking-basics.png" height="100" width="100"></img></a>
+<a href="[https://www.credly.com/badges/1529f8a1-7606-4919-9517-7d1cb9cecba7/public_url](https://api.badgr.io/public/assertions/I7EIImg8T7mKghsWeewnLA)"><img src="Certification/Postman_API_Fundamentals_Student_Expert.png" height="100" width="100"></img></a>
 <br /><br />
 
 <p align="left">
