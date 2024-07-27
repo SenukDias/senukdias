@@ -42,7 +42,7 @@
 
 ## 🏆 Achievements:
 
-<a href="https://www.credly.com/badges/4d14aef6-323b-4f1a-abdc-34f0c5dcefeb/public_url"><img src="Achievement/event-host.png" height="100" width="100"></img></a>
+<a href="https://www.credly.com/badges/4d14aef6-323b-4f1a-abdc-34f0c5dcefeb/public_url"><img src="Achievement/event-host.png" height="150" width="150"></img></a>
 
 <br /><br />
 
