@@ -43,7 +43,8 @@
 ## 🏆 Achievements:
 
 <a href="https://www.credly.com/badges/4d14aef6-323b-4f1a-abdc-34f0c5dcefeb/public_url"><img src="Achievement/event-host.png" height="100" width="100"></img></a>
-event-host.png
+
+<br /><br />
 
 <p align="left">
 <a href="https://codepen.io/senukdias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="senukdias" height="30" width="40" /></a>
