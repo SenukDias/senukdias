@@ -41,6 +41,7 @@
 
 ## 🔖🎓 Certified With:
 
+<a href="https://www.credly.com/badges/a429ba80-e105-48ca-b518-c447a7e9dd6a/public_url"><img src="Certification/introduction-to-cybersecurity.png" height="100" width="100"></img></a>
 <a href="https://www.credly.com/badges/1529f8a1-7606-4919-9517-7d1cb9cecba7/public_url"><img src="Certification/networking-basics.png" height="100" width="100"></img></a>
 <a href="https://www.credly.com/badges/ce950faa-feb9-46a2-920f-e0821ad14569/public_url"><img src="Certification/big-data-foundations-level-1.png" height="110" width="110"></img></a>
 <a href="https://skillshop.credential.net/72081c87-ba4a-4c56-97f3-a1ceac5d6935#gs.ag836o"><img src="Certification/google-analytics.png" height="110" width="110"></img></a>
