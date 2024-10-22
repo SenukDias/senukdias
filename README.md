@@ -41,8 +41,8 @@
 
 ## 🔖🎓 Certified With:
 
-<a href="https://www.credly.com/badges/8cebf3c1-5b15-4cc6-86dd-f62b03fd209b/public_url"><img src="Certification/icip-opswat.png" height="130" width="125"></img></a>
 <a href="https://www.credly.com/badges/3202f287-4656-48e5-bb8c-17385228d1fd/public_url"><img src="Certification/introduction-to-the-threat-landscape-2-0.png" height="100" width="100"></img></a>
+<a href="https://www.credly.com/badges/8cebf3c1-5b15-4cc6-86dd-f62b03fd209b/public_url"><img src="Certification/icip-opswat.png" height="130" width="125"></img></a>
 <a href="https://www.credly.com/badges/a429ba80-e105-48ca-b518-c447a7e9dd6a/public_url"><img src="Certification/introductiontocybersecurity.png" height="100" width="100"></img></a>
 <a href="https://www.credly.com/badges/0df8e703-64d5-475a-aa56-75d42d84f181/public_url"><img src="Certification/endpointsecurity.png" height="100" width="100"></img></a>
 <a href="https://www.credly.com/badges/dfa3bd69-a068-4d18-9d8b-d8e78d775e6c/public_url"><img src="Certification/introductiontoiot.png" height="100" width="100"></img></a>
