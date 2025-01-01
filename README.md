@@ -42,6 +42,8 @@
 
 ## 🔖🎓 Certified With:
 
+<a href="https://www.credly.com/badges/b2eeff20-0ce0-4aa0-a1f6-20e40a8ef44a/public_url"><img src="Certification/fortinet-certified-fundamentals-cybersecurity.png" height="125" width="125"></img></a>
+<a href="https://www.credly.com/badges/a3b704e2-7290-4d5e-8b86-58babd558c9c/public_url"><img src="Certification/getting-started-in-cybersecurity-2-0.png" height="100" width="100"></img></a>
 <a href="https://www.credly.com/badges/3202f287-4656-48e5-bb8c-17385228d1fd/public_url"><img src="Certification/introduction-to-the-threat-landscape-2-0.png" height="100" width="100"></img></a>
 <a href="https://www.credly.com/badges/8cebf3c1-5b15-4cc6-86dd-f62b03fd209b/public_url"><img src="Certification/icip-opswat.png" height="130" width="125"></img></a>
 <a href="https://www.credly.com/badges/a429ba80-e105-48ca-b518-c447a7e9dd6a/public_url"><img src="Certification/introductiontocybersecurity.png" height="100" width="100"></img></a>
